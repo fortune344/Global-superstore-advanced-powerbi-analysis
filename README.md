@@ -65,18 +65,8 @@ Full evidence, methodology and recommendations are in `Business_Insights_and_Rec
 2. All data is embedded — no external data source connection required.
 3. Use the slicers on each page to filter by year, market, category or region.
 
-## Deliverables Checklist
 
-- [x] Power BI Dashboard (.pbix)
-- [x] Dashboard PDF export
-- [x] Advanced Data Analysis document
-- [x] Business Insights & Recommendations Report
-- [x] DAX Measures documentation
-- [x] Updated README.md
-- [ ] GitHub repository link submitted
-- [ ] Week 3 submission form completed
 
 ---
 
-*Prepared as part of the AnalystLab Africa Data Analytics Internship Programme. #AnalystLabAfrica*
 
